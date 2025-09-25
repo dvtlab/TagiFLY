@@ -43,7 +43,12 @@ The goal is simple: Mark your images, save them, and use them in your AI/ML proj
 This is the **first release (Beta)**.  
 It may contain bugs or missing features. Please share your feedback so we can improve it together. 🚀  
 
-### **Quick Start**
+
+## 🛠️ **Installation & Setup**
+
+### **Prerequisites**
+- Node.js (v14 or higher)
+- npm or yarn
 
 ```bash
 # Clone the repository
@@ -58,6 +63,17 @@ npm install
 # Start the application
 npm start
 ```
+
+## 🚀 For Non-Technical Users  
+Download the ready-to-use application:
+
+- 🍏 [Mac (DMG, Apple Silicon)](https://github.com/dvtlab/TagiFLY/releases/download/v1.0.0-beta/TagiFLY-1.0.0-arm64.dmg)  
+- 🖥️ [Windows (EXE Installer)](https://github.com/dvtlab/TagiFLY/releases/download/v1.0.0-beta/TagiFLY.Setup.1.0.0.exe)  
+
+⚠️ Note: These are beta builds.  
+If you encounter any issues, please let us know via email: [dvtlab@outlook.com](mailto:dvtlab@outlook.com)
+
+
 ## 🎮 Usage
 
 - Select an image folder  
