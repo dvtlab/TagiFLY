@@ -71,8 +71,7 @@ Download the ready-to-use application:
 - 🖥️ [Windows (EXE Installer)](https://github.com/dvtlab/TagiFLY/releases/download/v1.0.0-beta/TagiFLY.Setup.1.0.0.exe)  
 
 ⚠️ Note: These are beta builds.  
-If you encounter any issues, please let us know via email: [dvtlab@outlook.com](mailto:dvtlab@outlook.com)
-
+If you encounter any issues or have suggestions, you are welcome to provide feedback.
 
 ## 🎮 Usage
 
