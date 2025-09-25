@@ -1,0 +1,43 @@
+{
+  "name": "tagifly",
+  "version": "1.0.0",
+  "description": "TagiFLY v1 (Beta) - Labelling Tool for AI Computer Vision",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "build": {
+    "appId": "com.dvtlab.tagifly",
+    "productName": "TagiFLY",
+    "mac": {
+      "icon": "assets/icon.icns"
+    },
+    "win":{
+      "icon": "assets/icon.ico"
+    },
+    "directories": {
+      "output": "dist"
+    }
+  },
+  "keywords": [
+    "ai",
+    "labeling",
+    "annotation",
+    "computer-vision",
+    "machine-learning",
+    "yolo",
+    "coco",
+    "electron"
+  ],
+  "author": "dvtlab <dvtlab@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jszip": "^3.10.1"
+  },
+  "devDependencies": {
+    "electron": "^28.0.0",
+    "electron-builder": "^26.0.12"
+  }
+}

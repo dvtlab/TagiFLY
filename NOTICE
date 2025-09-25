@@ -1,0 +1,28 @@
+TagiFLY - Professional AI Labeling Tool
+Copyright (c) 2024 Innobotics
+Email: info@innobotics.com.tr
+
+This software is built using the following open-source components:
+
+================================================================================
+
+Electron Framework
+- License: MIT License
+- Copyright: Electron contributors
+- Website: https://electronjs.org/
+- Description: Cross-platform desktop application framework
+
+JSZip
+- License: MIT License  
+- Copyright: Stuart Knightley, David Duponchel, Franz Buchinger, António Afonso
+- Website: https://stuk.github.io/jszip/
+- Description: JavaScript library for creating, reading and editing .zip files
+
+================================================================================
+
+For complete dependency information, please refer to:
+- package.json (dependency list)
+- node_modules directory (individual licenses)
+- LICENSE file (complete license text)
+
+Commercial licensing available - contact info@innobotics.com.tr
